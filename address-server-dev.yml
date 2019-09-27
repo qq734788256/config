@@ -1,22 +1,11 @@
 spring:
   application:
-    name: address-server
-# 配置中心地址
-  cloud:
-    config:
-      uri: http://localhost:9100
+    name: address-server222
 # rabbitmq配置
   rabbitmq:
     host: localhost
     port: 5672
     username: guest
     password: guest
-# 注册中心地址
-eureka:
-  client:
-    service-url:
-      defaultZone: http://localhost:9000/eureka
-  instance:
-    prefer-ip-address: true
 myuser:
   name: Mr.Wang
