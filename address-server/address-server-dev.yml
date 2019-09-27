@@ -8,5 +8,5 @@ spring:
     username: guest
     password: guest
 myuser:
-  name: Mr.Wang
+  name: Mr.Wang-
   sleep: 500
