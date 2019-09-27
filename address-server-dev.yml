@@ -8,4 +8,4 @@ spring:
     username: guest
     password: guest
 myuser:
-  name: Mr.Wang
+  name: Mr.Wang1
