@@ -9,4 +9,4 @@ spring:
     password: guest
 myuser:
   name: Mr.Wang
-  sleep: 1500
+  sleep: 100
