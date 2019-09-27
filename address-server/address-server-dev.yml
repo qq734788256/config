@@ -9,3 +9,5 @@ spring:
     password: guest
 myuser:
   name: Mr.Wang
+myuser:
+  sleep: 200
