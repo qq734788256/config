@@ -1,6 +1,8 @@
+server:
+  port: 8081
 spring:
   application:
-    name: address-server222
+    name: address-server
 # rabbitmq配置
   rabbitmq:
     host: localhost
