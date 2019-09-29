@@ -2,4 +2,4 @@ spring:
   application:
     name: user-server
 myuser:
-  name: Mr.Wang-U
+  name: Mr.Wang-User-Service
