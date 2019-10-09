@@ -9,4 +9,4 @@ spring:
     password: guest
 myuser:
   name: 河北省保定市
-  sleep: 100
+  sleep: 1000
