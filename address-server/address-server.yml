@@ -1,5 +1,5 @@
 myuser:
-  name: wulala
+  name: 姓名
 
 server:
   port: 8080
