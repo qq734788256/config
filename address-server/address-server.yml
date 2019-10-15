@@ -1,6 +1,15 @@
 myuser:
   name: 姓名
 
+
+info:
+  app:
+    name: address-server
+    description: 地址服务
+    owner:
+      - Wang
+      - Long
+
 server:
   port: 8080
 spring:
