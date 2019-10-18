@@ -7,6 +7,6 @@ spring:
     port: 5672
     username: guest
     password: guest
-myuser:
-  name: 河北省保定市1
+user:
+  address: 河北省保定市1
   sleep: 1000
