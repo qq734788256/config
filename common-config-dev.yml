@@ -1,5 +1,5 @@
 myuser:
-  name: wangyunlong-source
+  name: wangyunlong
 
 server:
   port: 8081
