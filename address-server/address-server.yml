@@ -40,6 +40,3 @@ management:
     web:
       exposure:
         include: '*'
-
-is:
-  common: common1

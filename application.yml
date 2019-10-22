@@ -1,2 +1,21 @@
+---
+spring:
+  profiles:
+    active: common
 is:
   common: common
+
+---
+spring:
+  profiles:
+    active: dev
+is:
+  common: dev
+
+
+---
+spring:
+  profiles:
+    active: qa
+is:
+  common: qa
