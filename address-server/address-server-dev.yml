@@ -10,3 +10,6 @@ spring:
 user:
   address: 河北省保定市1
   sleep: 1000
+
+is:
+  common: common2
