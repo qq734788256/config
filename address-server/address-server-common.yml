@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: address-server
+# rabbitmq配置
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+user:
+  address: 河北省保定市1
+  sleep: 1000
