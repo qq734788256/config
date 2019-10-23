@@ -1,6 +1,7 @@
 myuser:
   name: 姓名
-
+address:
+  common: address-common
 
 info:
   app-name: address-server
